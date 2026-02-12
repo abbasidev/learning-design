@@ -1,1 +1,1 @@
-# learning-design
+# Learning Design
